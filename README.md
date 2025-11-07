@@ -1,6 +1,6 @@
 # 🚀 Smart-Inventory-Management-System
 
-[![GitHub stars](https://img.shields.io/github/stars/<your-username>/Smart-Inventory-Management-System?style=social)](https://github.com/<your-username>/Smart-Inventory-Management-System/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/BuiltByShivam/Smart-Inventory-Management-System?style=social)](https://github.com/BuiltByShivam/Smart-Inventory-Management-System/stargazers)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Made with Java](https://img.shields.io/badge/Made%20with-Java-orange)](https://www.java.com/)
 [![React](https://img.shields.io/badge/Frontend-React-blue)](https://reactjs.org/)
