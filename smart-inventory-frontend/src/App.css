@@ -1,0 +1,63 @@
+/* =========================
+   Global Reset + Box Sizing
+========================= */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* =========================
+   Global Defaults
+========================= */
+html, body {
+  width: 100%;
+  height: 100%;
+  color: #111827;
+  overflow-x: hidden;
+  font-family: system-ui, sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+/* =========================
+   Root / App Container
+========================= */
+#root, .app-root {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 100%;
+}
+
+/* =========================
+   Full Width Safe Utility
+========================= */
+.full-width-safe {
+  width: 100%;
+  max-width: 100%;
+}
+
+/* =========================
+   Images, Videos, Iframes
+========================= */
+img, svg, picture, video, iframe {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* =========================
+   Force Dark Text Utility
+========================= */
+.force-dark-text {
+  color: #111827;
+}
+
+/* =========================
+   Debug Outlines (temporary)
+========================= */
+.debug-outline * {
+  outline: 1px solid red;
+}
